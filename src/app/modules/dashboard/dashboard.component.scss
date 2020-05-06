@@ -1,0 +1,17 @@
+.stats-cards {
+  .mat-card {
+    overflow: hidden;
+  }
+}
+
+table {
+  width: 100%;
+}
+.container {
+  width: 100%;
+  display: flex;
+}
+.col-4 {
+  flex: 0 0 33%;
+  max-width: 33%;
+}
